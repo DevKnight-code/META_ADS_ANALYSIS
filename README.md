@@ -64,8 +64,6 @@ Meta-Performance-Dashboard/
 ├── Dashboard_images/
 │   ├── facebook_overview.png
 │   ├── instagram_overview.png
-│   ├── engagement_trend.png
-│   └── audience_breakdown.png
 │
 └── README.md
 ```
